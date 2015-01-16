@@ -6,7 +6,7 @@ Allow to convert between Zawgyi And Unicode. It's using [Parabaik](https://githu
 
 ### Download
 
-You can download Mac app at [Release](./releases).
+You can download Mac app at [Release](https://github.com/saturngod/Unicode-Zawgyi-Converter/release).
 
 ### iOS
 

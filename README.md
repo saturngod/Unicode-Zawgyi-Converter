@@ -8,6 +8,10 @@ Allow to convert between Zawgyi And Unicode. It's using [Parabaik](https://githu
 
 You can download Mac app at [Release](https://github.com/saturngod/Unicode-Zawgyi-Converter/release).
 
+### Requirement
+
+- Mac OS X 10.9 or later
+
 ### iOS
 
 If you want to use Parabaik in the iOS app, just drag and drop **parabaik** folder to your project.
